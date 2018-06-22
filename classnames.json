@@ -1,0 +1,8 @@
+{
+	"Integer" : ["i", "I"],
+	"Float" : ["f", "F"],
+	"Double" : ["d", "D"],
+	"Short" : ["h", "H"],
+	"Character" : ["c", "C"],
+	"Long" : ["l", "L"]
+}
